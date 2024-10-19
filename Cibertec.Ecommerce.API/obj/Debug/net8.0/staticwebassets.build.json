@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sfqQdF+Gxa2pMInn39FVhbiPOcIfmbezPYqECEXQObY=",
+  "Source": "Cibertec.Ecommerce.API",
+  "BasePath": "_content/Cibertec.Ecommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

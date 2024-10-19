@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20241019011607_InitialMigration.cs" />
+    <Compile Remove="Migrations\20241019011607_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20241019012850_Configurar.cs" />
+    <Compile Remove="Migrations\20241019012850_Configurar.Designer.cs" />
+    <Compile Remove="Migrations\20241019013001_cambiodenombre.cs" />
+    <Compile Remove="Migrations\20241019013001_cambiodenombre.Designer.cs" />
+    <Compile Remove="Migrations\20241019013109_cambiodelenght.cs" />
+    <Compile Remove="Migrations\20241019013109_cambiodelenght.Designer.cs" />
+    <Compile Remove="Migrations\20241019020414_productos x sales.cs" />
+    <Compile Remove="Migrations\20241019020414_productos x sales.Designer.cs" />
+    <Compile Remove="Migrations\20241019020442_productos x sales2.cs" />
+    <Compile Remove="Migrations\20241019020442_productos x sales2.Designer.cs" />
+    <Compile Remove="Migrations\EcommerceDBContextModelSnapshot.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cibertec.Ecommerce.Application\Cibertec.Ecommerce.Application.csproj" />
+    <ProjectReference Include="..\CibertecEcommerce.Domain\Cibertec.Ecommerce.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+</Project>

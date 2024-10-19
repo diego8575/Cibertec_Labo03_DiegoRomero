@@ -1,0 +1,6 @@
+@Cibertec.Ecommerce.API_HostAddress = http://localhost:5073
+
+GET {{Cibertec.Ecommerce.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

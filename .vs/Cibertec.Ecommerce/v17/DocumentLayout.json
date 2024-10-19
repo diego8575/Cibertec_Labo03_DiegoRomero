@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\abstractions\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\abstractions\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\queryhandlers\\getallcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\queryhandlers\\getallcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\queryhandlers\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\queryhandlers\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\queries\\getallcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\queries\\getallcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010AFF27-43FB-4743-B8E8-08DFF976D158}|Cibertec.Ecommerce.API\\Cibertec.Ecommerce.API.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010AFF27-43FB-4743-B8E8-08DFF976D158}|Cibertec.Ecommerce.API\\Cibertec.Ecommerce.API.csproj|solutionrelative:cibertec.ecommerce.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010AFF27-43FB-4743-B8E8-08DFF976D158}|Cibertec.Ecommerce.API\\Cibertec.Ecommerce.API.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010AFF27-43FB-4743-B8E8-08DFF976D158}|Cibertec.Ecommerce.API\\Cibertec.Ecommerce.API.csproj|solutionrelative:cibertec.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\commands\\createcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\commands\\createcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\commands\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\commands\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\queries\\getcustomerbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\queries\\getcustomerbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\commandhandlers\\deletecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\commandhandlers\\deletecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\repositories\\customerdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\repositories\\customerdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\commandhandlers\\createcustomerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\commandhandlers\\createcustomerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\commands\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\commands\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\customercommands\\commandhandlers\\updatecustomerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\customercommands\\commandhandlers\\updatecustomerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\context\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\context\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020442_productos x sales2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cibertec.Domain.Infraestructure\\Migrations\\20241019020442_productos x sales2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertececommerce.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|solutionrelative:cibertececommerce.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertececommerce.domain\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|solutionrelative:cibertececommerce.domain\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertececommerce.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|solutionrelative:cibertececommerce.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020414_productos x sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cibertec.Domain.Infraestructure\\Migrations\\20241019020414_productos x sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020236_productos x sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cibertec.Domain.Infraestructure\\Migrations\\20241019020236_productos x sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertececommerce.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|solutionrelative:cibertececommerce.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019013109_cambiodelenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cibertec.Domain.Infraestructure\\Migrations\\20241019013109_cambiodelenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019013001_cambiodenombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cibertec.Domain.Infraestructure\\Migrations\\20241019013001_cambiodenombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\migrations\\20241019012850_configurar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\migrations\\20241019012850_configurar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertececommerce.domain\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D619AF5-1F6D-4F49-AF37-42FB7E90A3C0}|CibertecEcommerce.Domain\\Cibertec.Ecommerce.Domain.csproj|solutionrelative:cibertececommerce.domain\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\migrations\\20241019011607_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\migrations\\20241019011607_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\migrations\\ecommercedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\migrations\\ecommercedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010AFF27-43FB-4743-B8E8-08DFF976D158}|Cibertec.Ecommerce.API\\Cibertec.Ecommerce.API.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{010AFF27-43FB-4743-B8E8-08DFF976D158}|Cibertec.Ecommerce.API\\Cibertec.Ecommerce.API.csproj|solutionrelative:cibertec.ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.domain.infraestructure\\cibertec.domain.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA038D81-0CE5-4E98-9D0F-7C49155E6CFF}|Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj|solutionrelative:cibertec.domain.infraestructure\\cibertec.domain.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\applicationdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\applicationdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|d:\\cibertec.ecommerce with mediatr\\cibertec.ecommerce\\cibertec.ecommerce.application\\cibertec.ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FF03058-59DC-4326-993F-69C301D19D6F}|Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj|solutionrelative:cibertec.ecommerce.application\\cibertec.ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:39:32.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.API\\Program.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:02:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllCustomerHandler.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetAllCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetAllCustomerHandler.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetAllCustomerHandler.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetAllCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:12:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllCustomers.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetAllCustomers.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetAllCustomers.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetAllCustomers.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetAllCustomers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:07:04.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCustomerByIDHandler.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetCustomerByIDHandler.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetCustomerByIDHandler.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetCustomerByIDHandler.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\QueryHandlers\\GetCustomerByIDHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:21:20.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\Abstractions\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\Abstractions\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\Abstractions\\ICustomerRepository.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\Abstractions\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:26:27.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDBRepository.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Repositories\\CustomerDBRepository.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Repositories\\CustomerDBRepository.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Repositories\\CustomerDBRepository.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Repositories\\CustomerDBRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:59:55.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCustomerById.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetCustomerById.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetCustomerById.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetCustomerById.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\Queries\\GetCustomerById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:11:47.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCustomer.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\CreateCustomer.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\CreateCustomer.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\CreateCustomer.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\CreateCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:59:24.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:51:29.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteCustomerHandler.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\DeleteCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\DeleteCustomerHandler.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\DeleteCustomerHandler.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\DeleteCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:10:48.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteCustomer.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\DeleteCustomer.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\DeleteCustomer.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\DeleteCustomer.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\DeleteCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:11:09.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCustomerHandlers.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\CreateCustomerHandlers.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\CreateCustomerHandlers.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\CreateCustomerHandlers.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\CreateCustomerHandlers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:02:52.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCustomer.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\UpdateCustomer.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\UpdateCustomer.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\UpdateCustomer.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\Commands\\UpdateCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:11:17.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateCustomerHandlers.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\UpdateCustomerHandlers.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\UpdateCustomerHandlers.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\UpdateCustomerHandlers.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\CustomerCommands\\CommandHandlers\\UpdateCustomerHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:10:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241019020442_productos x sales2.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020442_productos x sales2.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019020442_productos x sales2.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020442_productos x sales2.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019020442_productos x sales2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:04:42.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "CibertecEcommerce.Domain\\Product.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Product.cs",
+              "RelativeToolTip": "CibertecEcommerce.Domain\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBAwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:08:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Sales.cs",
+              "RelativeDocumentMoniker": "CibertecEcommerce.Domain\\Sales.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Sales.cs",
+              "RelativeToolTip": "CibertecEcommerce.Domain\\Sales.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:11:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EcommerceDBContext.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Context\\EcommerceDBContext.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Context\\EcommerceDBContext.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Context\\EcommerceDBContext.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Context\\EcommerceDBContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:51:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241019020414_productos x sales.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020414_productos x sales.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019020414_productos x sales.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020414_productos x sales.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019020414_productos x sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:04:14.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241019020236_productos x sales.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020236_productos x sales.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019020236_productos x sales.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019020236_productos x sales.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019020236_productos x sales.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:02:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Provider.cs",
+              "RelativeDocumentMoniker": "CibertecEcommerce.Domain\\Provider.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Provider.cs",
+              "RelativeToolTip": "CibertecEcommerce.Domain\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:10:22.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "CibertecEcommerce.Domain\\Customer.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Customer.cs",
+              "RelativeToolTip": "CibertecEcommerce.Domain\\Customer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIBBwCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:06:14.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241019013109_cambiodelenght.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019013109_cambiodelenght.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019013109_cambiodelenght.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019013109_cambiodelenght.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019013109_cambiodelenght.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:31:09.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241019013001_cambiodenombre.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019013001_cambiodenombre.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019013001_cambiodenombre.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019013001_cambiodenombre.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019013001_cambiodenombre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:30:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241019012850_Configurar.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019012850_Configurar.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019012850_Configurar.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019012850_Configurar.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019012850_Configurar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:28:50.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "CibertecEcommerce.Domain\\Validators\\CustomerValidator.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\CibertecEcommerce.Domain\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "CibertecEcommerce.Domain\\Validators\\CustomerValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:23:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.API\\appsettings.json",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.API\\appsettings.json",
+              "RelativeToolTip": "Cibertec.Ecommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T01:08:40.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241019011607_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019011607_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\20241019011607_InitialMigration.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\20241019011607_InitialMigration.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\20241019011607_InitialMigration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAywCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:16:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EcommerceDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:16:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cibertec.Domain.Infraestructure",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj",
+              "RelativeToolTip": "Cibertec.Domain.Infraestructure\\Cibertec.Domain.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T00:50:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDependencyInjection.cs",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\ApplicationDependencyInjection.cs",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\ApplicationDependencyInjection.cs",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\ApplicationDependencyInjection.cs",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\ApplicationDependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:15:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cibertec.Ecommerce.Application.csproj",
+              "DocumentMoniker": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj",
+              "RelativeDocumentMoniker": "Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj",
+              "ToolTip": "D:\\Cibertec.Ecommerce with MediatR\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj",
+              "RelativeToolTip": "Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T01:02:53.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

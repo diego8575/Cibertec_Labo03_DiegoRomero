@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kww+k5n2dyE7CawRGbTzBBuN6sUiFpuSkErGXlSyx3W24hqXydSW3VlkcnHWq5tYbQBFGxs5JSX0Fj3qPTASDQ==",
+  "success": true,
+  "projectFilePath": "D:\\CIBERTEC\\VS 2022 NET CORE Y ANGULAR\\Proyectos\\NETCORE_API\\Laboratorio4\\Cibertec.Ecommerce\\Cibertec.Ecommerce.Application\\Cibertec.Ecommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

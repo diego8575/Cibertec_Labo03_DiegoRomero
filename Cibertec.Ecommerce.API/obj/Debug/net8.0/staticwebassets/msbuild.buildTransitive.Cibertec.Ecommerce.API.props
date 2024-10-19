@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cibertec.Ecommerce.API.props" />
+</Project>

@@ -1,0 +1,47 @@
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.deps.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\refint\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+C:\Users\betit\source\repos\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\ref\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.deps.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\refint\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\ref\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.deps.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfo.cs
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\refint\Cibertec.Ecommerce.Domain.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\ref\Cibertec.Ecommerce.Domain.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.deps.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.AssemblyInfo.cs
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\refint\Cibertec.Ecommerce.Domain.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\CibertecEcommerce.Domain\obj\Debug\net8.0\ref\Cibertec.Ecommerce.Domain.dll

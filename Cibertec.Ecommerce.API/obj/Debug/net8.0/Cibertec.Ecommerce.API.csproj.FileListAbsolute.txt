@@ -1,0 +1,381 @@
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.exe
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.deps.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.runtimeconfig.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.AssemblyReference.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfoInputs.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfo.cs
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.CoreCompileInputs.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.Cibertec.Ecommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Cibertec.Ecommerce.API.props
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cibertec.Ecommerce.API.props
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cibertec.Ecommerce.API.props
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\scopedcss\bundle\Cibertec.Ecommerce.API.styles.css
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.AF921DD2.Up2Date
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\refint\Cibertec.Ecommerce.API.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.genruntimeconfig.cache
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\ref\Cibertec.Ecommerce.API.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.pdb
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.pdb
+C:\Users\betit\source\repos\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.exe
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.deps.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.runtimeconfig.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.AssemblyReference.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfoInputs.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfo.cs
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.CoreCompileInputs.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.Cibertec.Ecommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Cibertec.Ecommerce.API.props
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cibertec.Ecommerce.API.props
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cibertec.Ecommerce.API.props
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\scopedcss\bundle\Cibertec.Ecommerce.API.styles.css
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.AF921DD2.Up2Date
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\refint\Cibertec.Ecommerce.API.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.genruntimeconfig.cache
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\ref\Cibertec.Ecommerce.API.dll
+C:\Users\betit\OneDrive\Escritorio\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.AssemblyReference.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfoInputs.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfo.cs
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.CoreCompileInputs.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\refint\Cibertec.Ecommerce.API.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.exe
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.deps.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.runtimeconfig.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Humanizer.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\MediatR.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.Cibertec.Ecommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Cibertec.Ecommerce.API.props
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cibertec.Ecommerce.API.props
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cibertec.Ecommerce.API.props
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\scopedcss\bundle\Cibertec.Ecommerce.API.styles.css
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.AF921DD2.Up2Date
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.genruntimeconfig.cache
+D:\Cibertec.Ecommerce with MediatR\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\ref\Cibertec.Ecommerce.API.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\appsettings.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.exe
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.deps.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.runtimeconfig.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Azure.Core.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\FluentValidation.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Humanizer.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\MediatR.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Domain.Infraestructure.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Application.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\bin\Debug\net8.0\Cibertec.Ecommerce.Domain.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.AssemblyReference.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfoInputs.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.AssemblyInfo.cs
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.Cibertec.Ecommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Cibertec.Ecommerce.API.props
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cibertec.Ecommerce.API.props
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cibertec.Ecommerce.API.props
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\scopedcss\bundle\Cibertec.Ecommerce.API.styles.css
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.csproj.CopyComplete
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\refint\Cibertec.Ecommerce.API.dll
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.pdb
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\Cibertec.Ecommerce.API.genruntimeconfig.cache
+D:\CIBERTEC\VS 2022 NET CORE Y ANGULAR\Proyectos\NETCORE_API\Laboratorio4\Cibertec.Ecommerce\Cibertec.Ecommerce.API\obj\Debug\net8.0\ref\Cibertec.Ecommerce.API.dll
